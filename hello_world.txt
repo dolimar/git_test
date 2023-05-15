@@ -1,5 +1,1 @@
-matn
-shomare
-yek 
-va
-do
+Hello World!
